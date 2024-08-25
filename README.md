@@ -16,14 +16,15 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <details>
-<summary>User doing this  graph</summary>
-```mermaid
+  <summary>User doing this graph</summary>
+
+  ```mermaid
   graph TD;
       A-->B;
       A-->C;
       B-->D;
       C-->D;
-```
-</details>
+
+</details> ```
 
 
