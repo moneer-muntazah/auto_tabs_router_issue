@@ -18,13 +18,13 @@ samples, guidance on mobile development, and a full API reference.
 <details>
   <summary>User doing this graph</summary>
 
-  ```mermaid
+  <p>```mermaid
   graph TD;
       A-->B;
       A-->C;
       B-->D;
       C-->D;
-
-</details> ```
+```</p>
+</details> 
 
 
