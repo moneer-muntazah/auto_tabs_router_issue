@@ -15,17 +15,15 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-
+<details>
+<summary>User doing this  graph</summary>
 ```mermaid
   graph TD;
       A-->B;
       A-->C;
       B-->D;
       C-->D;
-
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
 ```
+</details>
+
+
