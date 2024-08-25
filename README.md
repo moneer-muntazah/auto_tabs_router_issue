@@ -16,9 +16,8 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <details>
-  <summary>User doing this graph</summary>
-
-  <p>```mermaid
+  <summary>User doing this graph</summary><p>
+  ```mermaid
   graph TD;
       A-->B;
       A-->C;
